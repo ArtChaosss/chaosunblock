@@ -1,4 +1,4 @@
-vless://11111111-1111-1111-1111-111111111111@example.com:443?security=tls&type=tcp#CHAOS🩸%20📕БЕЛЫЕ СПИСКИ:
+vless://11111111-1111-1111-1111-111111111111@example.com:443?security=tls&type=tcp#CHAOS🐦‍🔥 ОБХОД📕БЕЛЫЕ СПИСКИ:
 vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.251:25567?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=iv.kommersant.ru&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#%F0%9F%87%A9%F0%9F%87%AAGermany%20%E2%80%94%20%231
 vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.245.101:25567?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=iv.kommersant.ru&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#%F0%9F%87%A9%F0%9F%87%AAGermany%20%E2%80%94%20%232
 vless://29d0bb5e-1301-4d79-95da-82e28d3e61ef@78.159.245.45:25565?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=img.perekrestok.ru&pbk=Pw1EUU1hud5uvtfySGyGy5vV38bYIiQzDx-cDQoAdk0&sid=a5bd715847213387#%F0%9F%87%A9%F0%9F%87%AAGermany%20%E2%80%94%20%233
